@@ -7,7 +7,7 @@ This project is implemented using JavaScript.
 
 #### 1. Select the game time.
 #### 2. Click on as many circles as you can during the selected time. Circles will be in different sizes and located in random places across the board.
-#### 3. at the end you will know your score.
+#### 3. At the end you will know your score.
 
 
 
