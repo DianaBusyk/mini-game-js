@@ -1,8 +1,7 @@
 # Game
 
 # Description
-This project is implemented using JavaScript.
-
+The essence of the game:  You need to select the game time and click on as many circles as you can during the selected time. You’ll receive points for clicking on those circles. Circles will be in different sizes and located in random places across the board. At the end you will know your score.
 # How to play
 
 #### 1. Select the game time.
